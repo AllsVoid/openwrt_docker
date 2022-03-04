@@ -1,1 +1,0 @@
-dnsmasq-full iptables ipset dnsmasq-extra openssl-util diffutils iptables-mod-nat-extra wget ca-bundle ca-certificates libustream-openssl
